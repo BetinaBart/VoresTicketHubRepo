@@ -14,6 +14,13 @@
     <Project Path="Order-Infrastructure/Order-Infrastructure.csproj" Id="fc74ae48-9dd4-486f-82a5-089ae873b7ae" />
     <Project Path="Order-UseCases/Order-UseCases.csproj" Id="07a8254f-e692-4037-847a-84b3ee41b248" />
   </Folder>
+  <Folder Name="/Microservices/Payment Service/">
+    <Project Path="Payment-Api/Payment-Api.csproj" />
+    <Project Path="Payment-Domain/Payment-Domain.csproj" Id="c67965d5-a9e8-4a2d-ac34-13a0f089ccb4" />
+    <Project Path="Payment-Facade/Payment-Facade.csproj" Id="c46e804b-c001-4c32-a11d-4ff7108eacd5" />
+    <Project Path="Payment-Infrastructure/Payment-Infrastructure.csproj" Id="2e8d9d00-011d-4067-b941-9d6af9d63105" />
+    <Project Path="Payment-UseCases/Payment-UseCases.csproj" Id="cc0943c3-a5e9-4fbf-95a9-efa919820339" />
+  </Folder>
   <Project Path="AppHost/AppHost.csproj" Id="2af648b2-feea-4589-9333-3896fc197fdb" />
   <Project Path="ServiceDefaults/ServiceDefaults.csproj" Id="e4a0f7fd-0d62-4704-9b26-f8232b0ba054" />
 </Solution>
