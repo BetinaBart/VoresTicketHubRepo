@@ -1,4 +1,6 @@
 <Solution>
+  <Folder Name="/Microservices/" />
+  <Folder Name="/Microservices/Order Service/" />
   <Project Path="AppHost/AppHost.csproj" Id="2af648b2-feea-4589-9333-3896fc197fdb" />
   <Project Path="ServiceDefaults/ServiceDefaults.csproj" Id="e4a0f7fd-0d62-4704-9b26-f8232b0ba054" />
 </Solution>
