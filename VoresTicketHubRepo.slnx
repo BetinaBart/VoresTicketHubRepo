@@ -1,5 +1,12 @@
 <Solution>
   <Folder Name="/Microservices/" />
+  <Folder Name="/Microservices/Notification Service/">
+    <Project Path="Notification-Api/Notification-Api.csproj" />
+    <Project Path="Notification-Domain/Notification-Domain.csproj" Id="ff8213de-8d07-4d00-89b4-00d37bb7e2ae" />
+    <Project Path="Notification-Facade/Notification-Facade.csproj" Id="9e1efc72-4668-460f-a83d-d7432c5b23f9" />
+    <Project Path="Notification-Infrastructure/Notification-Infrastructure.csproj" Id="00911620-a954-45aa-9037-39e9e4c62375" />
+    <Project Path="Notification-UseCases/Notification-UseCases.csproj" Id="69dc315b-af3e-4462-a772-4b9070ea87de" />
+  </Folder>
   <Folder Name="/Microservices/Order Service/">
     <Project Path="Order-Api/Order-Api.csproj" />
     <Project Path="Order-Domain/Order-Domain.csproj" Id="1dee4906-9158-4df5-9286-5185f9452b80" />
