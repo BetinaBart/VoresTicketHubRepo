@@ -1,6 +1,9 @@
 <Solution>
   <Folder Name="/Microservices/" />
-  <Folder Name="/Microservices/Order Service/" />
+  <Folder Name="/Microservices/Order Service/">
+    <Project Path="Order-Domain/Order-Domain.csproj" Id="1dee4906-9158-4df5-9286-5185f9452b80" />
+    <Project Path="Order-Facade/Order-Facade.csproj" Id="cf871e14-86d5-4dc9-80ea-e43dfaadcd3e" />
+  </Folder>
   <Project Path="AppHost/AppHost.csproj" Id="2af648b2-feea-4589-9333-3896fc197fdb" />
   <Project Path="ServiceDefaults/ServiceDefaults.csproj" Id="e4a0f7fd-0d62-4704-9b26-f8232b0ba054" />
 </Solution>
