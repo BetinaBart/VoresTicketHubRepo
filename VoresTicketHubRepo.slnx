@@ -3,6 +3,8 @@
   <Folder Name="/Microservices/Order Service/">
     <Project Path="Order-Domain/Order-Domain.csproj" Id="1dee4906-9158-4df5-9286-5185f9452b80" />
     <Project Path="Order-Facade/Order-Facade.csproj" Id="cf871e14-86d5-4dc9-80ea-e43dfaadcd3e" />
+    <Project Path="Order-Infrastructure/Order-Infrastructure.csproj" Id="fc74ae48-9dd4-486f-82a5-089ae873b7ae" />
+    <Project Path="Order-UseCases/Order-UseCases.csproj" Id="07a8254f-e692-4037-847a-84b3ee41b248" />
   </Folder>
   <Project Path="AppHost/AppHost.csproj" Id="2af648b2-feea-4589-9333-3896fc197fdb" />
   <Project Path="ServiceDefaults/ServiceDefaults.csproj" Id="e4a0f7fd-0d62-4704-9b26-f8232b0ba054" />
