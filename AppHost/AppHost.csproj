@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Notification-Api\Notification-Api.csproj" />
     <ProjectReference Include="..\Order-Api\Order-Api.csproj" />
   </ItemGroup>
 
