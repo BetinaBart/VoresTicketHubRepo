@@ -8,4 +8,8 @@
     <UserSecretsId>8abfcd7f-ed2d-4508-a99b-75597733d38a</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Order-Api\Order-Api.csproj" />
+  </ItemGroup>
+
 </Project>
